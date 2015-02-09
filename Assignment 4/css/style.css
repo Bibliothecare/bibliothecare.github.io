@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
+
+body{
+	text-align: center;
+	background:url(https://pbs.twimg.com/profile_images/378800000018138229/fe54fe9cf3b16e1e5b5c45b590132208_bigger.jpeg);
+	background-size: cover;
+	color: #fff;
+	font-family: 'Special Elite', cursive;
+}
+hr {
+	width: 200px;
+}
+p {
+	font-size: 22px
+}	
